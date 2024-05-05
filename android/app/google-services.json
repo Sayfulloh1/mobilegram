@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065518354908",
+    "project_id": "mobilegram-3762b",
+    "storage_bucket": "mobilegram-3762b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065518354908:android:2d7704523b4a17dcdcff19",
+        "android_client_info": {
+          "package_name": "com.example.mobilegram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi9xqsrwPQNttEdNMOMvGmOlj7c2Ljy90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
